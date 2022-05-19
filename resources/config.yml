@@ -1,0 +1,5 @@
+ClearChatCommandDescription: "A plugin that clears chats"
+CleaerChatCommand: "/clearchat"
+ClaerChatCommandAliases: ["chatclear", "clc"]
+message.noPerm: "§cYou dont have permission to use this command."
+message.chatSuccessfullyCleared: "§aThe chat got successfully cleared."

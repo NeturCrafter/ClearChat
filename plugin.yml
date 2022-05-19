@@ -1,0 +1,11 @@
+name: "ClearChat"
+main: NetureCrafter\ClearChat\Main
+author: NetureCrafter
+version: 1.0
+api: 4.0.0
+website: https://github.com/NetureCrafter
+description: A Chatclear plugin for PocketMine-MP
+
+permissions:
+  c.cmd:
+    default: op
