@@ -10,7 +10,7 @@ class ClearChatCommand extends Command {
 
     public function __construct(){
         $config = Main::getInstance()->getConfig();
-        parent::__construct("ClearChatCommand", $config->get("ClearChatCommandDescription"), $config->get("CleaerChatCommand"), $config->get("ClaerChatCommandAliases"));
+        parent::__construct("ClearChatCommand", $config->get("ClearChatCommandDescription"), $config->get("ClearChatCommand"), $config->get("ClearChatCommandAliases"));
         $this->setPermission("c.cmd");
     }
 
