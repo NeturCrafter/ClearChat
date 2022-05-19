@@ -1,5 +1,5 @@
 # ClearChat
-A ClearChat Plugin for PocketMine-MP
+A ClearChat plugin for PocketMine-MP
 
 ## Features
 - You can clear your own chat
