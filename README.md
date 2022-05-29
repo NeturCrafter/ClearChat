@@ -1,4 +1,3 @@
-[![](https://poggit.pmmp.io/shield.state/ClearChat)](https://poggit.pmmp.io/p/ClearChat)
 # ClearChat
 A ClearChat plugin for PocketMine-MP
 
