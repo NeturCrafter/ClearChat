@@ -25,7 +25,7 @@ class ClearChatCommand extends Command {
             return;
         }
         for ($i = 0; $i < 100; $i++) {
-            if (empty($args[0])) $sender->sendMessage("§7");
+            if (empty($args[0])) $sender->sendMessage("\n");
             elseif($args[0] === "all") Server::getInstance()->broadcastMessage("§7");
         }
         $sender->sendMessage($config->get("message.chatSuccessfullyCleared"));
